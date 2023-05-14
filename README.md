@@ -1,3 +1,5 @@
+(see: [English README](README_EN.md))
+
 # Nedir
 TDK Güncel Türkçe Sözlük'e erişmek için bir komut satırı aracı.
 
