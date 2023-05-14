@@ -1,4 +1,4 @@
-(see: [English README](README_EN.md))
+__(see: [English README](README_EN.md))__
 
 # Nedir
 TDK Güncel Türkçe Sözlük'e erişmek için bir komut satırı aracı.
