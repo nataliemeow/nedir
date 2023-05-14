@@ -1,3 +1,5 @@
+(bakınız: [Türkçe README](README.md))
+
 # Nedir
 A command-line tool to query the TDK Güncel Türkçe Sözlük (Up-to-date Turkish Dictionary).
 
