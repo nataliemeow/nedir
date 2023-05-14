@@ -1,5 +1,5 @@
 # Nedir
-TDK Güncel Türkçe Sözlük'e erişmek için bir komut satırı aracı
+TDK Güncel Türkçe Sözlük'e erişmek için bir komut satırı aracı.
 
 ## Nedir bu?
 ```
