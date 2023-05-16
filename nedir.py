@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Nedir - A command-line tool to query the TDK Güncel Türkçe Sözlük.
-# Written in 2023 by Ataberk <razorlovesbaba@tuta.io>
+# Written in 2023 by Natalie <razorlovesbaba@tuta.io>
 #
 # To the extent possible under law, the author(s) have dedicated all
 # copyright and related and neighboring rights to this software to the
@@ -67,7 +67,7 @@ for index, entry in enumerate(data):
     print()
 
     for meaning in entry['anlamlarListe']:
-        print(f' {COLOR}-{RESET} {meaning["anlam"][0].lower() + meaning["anlam"][1:]}')
+        print(f' {COLOR}-{RESET} {meaning["anlam"]}')
         if examples := meaning.get('orneklerListe'):
             for example in examples:
                 print(f'   {COLOR}>{RESET} {example["ornek"]}')
