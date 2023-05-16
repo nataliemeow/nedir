@@ -20,4 +20,4 @@ The tool consists of a single file. I don't feel the need to add a configuration
 I hope that this will be useful.
 
 ## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png "CC0") I license it under CC0.](LICENSE)
+[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png "CC0") I publish it under CC0.](LICENSE)
