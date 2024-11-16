@@ -1,9 +1,9 @@
 __(bakınız: [Türkçe README](README.md))__
 
 # Nedir
-A command-line tool to query the TDK Güncel Türkçe Sözlük (Up-to-date Turkish Dictionary).
+A command-line tool to query the TDK Güncel Türkçe Sözlük (Up-To-Date Turkish Dictionary).
 
-## Nedir bu?
+## What's this?
 ```
 $ nedir bu
 bu:
@@ -15,9 +15,7 @@ bu:
      - Reha Mağden
 ```
 
-The tool consists of a single file. I don't feel the need to add a configuration file, the code is tiny and compact enough.
-
-I hope that this will be useful.
+Hope this is useful.
 
 ## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png "CC0") I publish it under CC0.](LICENSE)
+[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png "CC0") Published under CC0.](LICENSE)

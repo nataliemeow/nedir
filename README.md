@@ -15,9 +15,7 @@ bu:
      - Reha Mağden
 ```
 
-Tek bir dosyadan oluşmaktadır. Ayar dosyası ekleme gereği duymadım, kod yeterince küçük ve basit.
-
-Umarım bu size yardımcı olur.
+Umarım yardımcı olur.
 
 ## Lisans
-[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png "CC0") CC0 lisansı altında yayımlıyorum.](LICENSE)
+[![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png "CC0") CC0 altında yayımlanmıştır.](LICENSE)
